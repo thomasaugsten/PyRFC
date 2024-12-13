@@ -1,3 +1,11 @@
+## Deprecation Notice
+
+This public repository is no longer maintained. Please see [this issue](https://github.com/SAP/PyRFC/issues/372) for details.
+
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+---
+
 <h1>PyRFC</h1>
 
 Asynchronous, non-blocking [SAP NetWeaver RFC SDK](https://support.sap.com/en/product/connectors/nwrfcsdk.html) bindings for Python.
@@ -26,11 +34,6 @@ Asynchronous, non-blocking [SAP NetWeaver RFC SDK](https://support.sap.com/en/pr
 - [How to obtain support](#how-to-obtain-support)
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
-
-
-## Call for Maintainers
-
-This project is currently looking for new maintainers. Please see [this issue](https://github.com/SAP/PyRFC/issues/372) for details.
 
 ## Features
 
